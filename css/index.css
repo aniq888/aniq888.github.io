@@ -35,9 +35,9 @@
    }
 
   h2 {
-    margin-top: auto;
-    margin-bottom: auto;
-    text-decoration-color: green;
+    margin-top: 0.9rem;
+    margin-bottom: 5rem;
+    
     color: #075AAB;
 
 
@@ -45,14 +45,14 @@
     /* set both the bottom margin and top margin to 2.5rem here */
    }
 
-  p1 {
-    color:darkcyan;
+  h3 {
+    color: darkcyan;
     margin-bottom: 0;
     margin-top: 2rem;
   }
 
-  p2 {
-    color:darkcyan;
+  h4 {
+    color: darkcyan;
     margin-bottom: 1rem;
     margin-top: 0.5rem;
   }
